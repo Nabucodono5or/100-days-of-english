@@ -8,5 +8,6 @@ The log of my #100DaysOfEnglish challenge. Started on [July 17, Monday, 2017].
 Irei constantemente analisar e anotar meus avanços através desses logs, para que eu possa ter um meio de avaliar minha evolução.
 
 ### R1D1
+Estudado nouns e parts of speech, é mais como uma revisão e resoluçao de dpuvidas, espero com isso melhorar meu inglês de foram realmente eficiente.
 
 ### R1D2
