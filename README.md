@@ -11,3 +11,4 @@ Irei constantemente analisar e anotar meus avanços através desses logs, para q
 Estudado nouns e parts of speech, é mais como uma revisão e resoluçao de dpuvidas, espero com isso melhorar meu inglês de foram realmente eficiente.
 
 ### R1D2
+Continuando minha jornada através do estudo de nouns e suas categorias.
