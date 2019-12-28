@@ -12,3 +12,6 @@ Estudado nouns e parts of speech, é mais como uma revisão e resoluçao de dpuv
 
 ### R1D2
 Continuando minha jornada através do estudo de nouns e suas categorias.
+
+### R1D3
+Saindo de concrete and abstract nouns para countable and uncountable nouns
