@@ -15,3 +15,6 @@ Continuando minha jornada através do estudo de nouns e suas categorias.
 
 ### R1D3
 Saindo de concrete and abstract nouns para countable and uncountable nouns
+
+### R1D4
+Dia reservado somente a prática da leitura.
