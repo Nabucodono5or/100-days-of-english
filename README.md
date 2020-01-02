@@ -21,3 +21,12 @@ Dia reservado somente a prática da leitura.
 
 ### R1D5
 Grámatica, podcast e leitura, imersão completa no dia de hoje.
+
+### R1D6
+Podacast e vídeos sobre o uso do 'The' e 'too, too many and too much'
+
+### R1D7
+podcast e leitura de conteúdo em inglês.
+
+### R1D8
+Collective nouns e podcasts.
