@@ -30,3 +30,6 @@ podcast e leitura de conteúdo em inglês.
 
 ### R1D8
 Collective nouns e podcasts.
+
+### R1D9
+Hoje somente um dia de podcasts.
