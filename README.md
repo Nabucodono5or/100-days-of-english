@@ -36,3 +36,6 @@ Hoje somente um dia de podcasts.
 
 ### R1D9
 Mais podcasts!!
+
+### R1D10
+Um pouco de podcast e uma pequena leitura.
