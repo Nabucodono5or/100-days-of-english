@@ -39,3 +39,6 @@ Mais podcasts!!
 
 ### R1D10
 Um pouco de podcast e uma pequena leitura.
+
+### R1D11
+Melhorando listener com 1 hora de podcast.
