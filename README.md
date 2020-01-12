@@ -45,3 +45,6 @@ Melhorando listener com 1 hora de podcast.
 
 ### R1D12
 Muito treino de listening, já sentindo uma melhora.
+
+### R1D13
+Duas horas de podcast. Até audios aleatórios em inglês começam a me afetar.
