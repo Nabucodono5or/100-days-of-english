@@ -54,3 +54,6 @@ Mais duas horas de podcast.
 
 ### R1D15
 Podcast de assunto diferente, com novos locutores.
+
+### R1D16
+Voltando aos podcasts de tecnologia.
