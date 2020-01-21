@@ -57,3 +57,6 @@ Podcast de assunto diferente, com novos locutores.
 
 ### R1D16
 Voltando aos podcasts de tecnologia.
+
+### R1D17
+Assistir um vídeo em inglês com toda minha atenção, após dias de podcasts, fez uma enorme diferença.
