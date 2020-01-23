@@ -66,3 +66,6 @@ Vídeos e podcast com horário novo.
 
 ### R1D19
 podcast e vídeos, o listening está melhorando com certaza.
+
+### R1D20
+continuando um podcast e vários videos.
