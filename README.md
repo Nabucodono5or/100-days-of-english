@@ -69,3 +69,6 @@ podcast e vídeos, o listening está melhorando com certaza.
 
 ### R1D20
 continuando um podcast e vários videos.
+
+### R1D21
+Mais podcasts!!!
