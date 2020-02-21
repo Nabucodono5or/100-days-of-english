@@ -72,3 +72,6 @@ continuando um podcast e vários videos.
 
 ### R1D21
 Mais podcasts!!!
+
+### R1D22
+Depois de uma longa pausa, séries e podcasts em inglês.
